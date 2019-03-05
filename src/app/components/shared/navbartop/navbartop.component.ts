@@ -12,4 +12,8 @@ export class NavbartopComponent implements OnInit {
   ngOnInit() {
   }
 
+  Logout(){
+    
+  }
+
 }

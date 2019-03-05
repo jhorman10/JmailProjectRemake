@@ -1,12 +1,12 @@
 body{
-    background-color: black;
+    background-color: #1C2321;
     color: white !important;
 }
 .main-container{
   margin-top: 50px;
 }
 .login, .profile {
-  margin-top: 10%;
+  margin-top: 5%;
 }
 .cards{
   color: black;

@@ -14,6 +14,9 @@ import { HomeComponent } from './components/shared/home/home.component';
 import { NavbartopComponent } from './components/shared/navbartop/navbartop.component';
 import { LandingpageComponent } from './components/shared/landingpage/landingpage.component';
 import { SearchComponent } from './components/shared/search/search.component';
+import { FooterComponent } from './components/shared/footer/footer.component';
+import { NoregisterComponent } from './components/shared/noregister/noregister.component';
+import { RegisterComponent } from './components/register/register.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +31,10 @@ import { SearchComponent } from './components/shared/search/search.component';
     HomeComponent,
     NavbartopComponent,
     LandingpageComponent,
-    SearchComponent
+    SearchComponent,
+    FooterComponent,
+    NoregisterComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,
